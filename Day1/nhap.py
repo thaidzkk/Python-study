@@ -6,4 +6,5 @@ print("❤")
 for i in range(5):
     print(i)
 print("End of the program.")    
+print("New line added.")
  
