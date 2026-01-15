@@ -170,6 +170,7 @@ my_set.discard(10)   # Xóa phần tử khỏi set nếu tồn tại, không gâ
 my_set.pop()         # Xóa và trả về một phần tử ngẫu nhiên từ set, output: một số trong set
 my_set.clear()       # Xóa tất cả các phần tử trong set, output: set()  
 
+
+
 #12. Dictionary và các phương thức thường dùng với Dictionary
-
-
+#13. Lis
