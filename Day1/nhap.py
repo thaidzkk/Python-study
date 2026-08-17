@@ -19,7 +19,7 @@ class Robot:
         self._speed = value                                     
 
 robot = Robot()            
-robot.xspeed = 1.5
+robot.xspeed = 1.5                  # 
 print(robot.xspeed)                 # Property cho phép gọi method speed như một attribute (không cần robot.speed() )  >> Gọi Setter
 
 
